@@ -10,4 +10,10 @@ We will discuss licensing and make use of and operate entirely within open sourc
 
 Follow the links below to repositories containing course information:
 
-- [Syllabus](./syllabus/)
+- [Syllabus](https://github.com/comp426-2022-fall/syllabus/)
+- [Discussions](https://github.com/orgs/comp426-2022-fall/discussions)
+- [Projects](https://github.com/orgs/comp426-2022-fall/projects)
+- [Schedule](https://github.com/comp426-2022-fall/schedule/)
+- [Notes](https://github.com/comp426-2022-fall/notes/)
+- [Slides](https://github.com/comp426-2022-fall/slides/)
+- [](https://github.com/comp426-2022-fall//)
