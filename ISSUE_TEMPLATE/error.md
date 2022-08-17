@@ -9,8 +9,8 @@ None of the above, create an issue
 
 Make sure to add **all the information needed to understand the bug** so that someone can help. If the info is missing we'll add the 'Needs more information' label and close the issue until there is enough information.
 
-- [ ] Provide a **minimal code snippet**
-- [ ] Provide **screenshots** where appropriate
-- [ ] Copy and paste the **error log** if there is one
-- [ ] What is your **Node.js version?**
-- [ ] Are you using Mac or Linux/WSL?
+- [ ] Provide a **_minimal code snippet_** or the **_command string_** you are trying to run
+- [ ] Provide **_screenshots_** where appropriate
+- [ ] Copy and paste the **_error log_** if there is one
+- [ ] What is your **_Node.js version?_**
+- [ ] What is your **_operating system_** (Mac or Linux/WSL)?
