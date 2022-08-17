@@ -13,5 +13,4 @@ Follow the links below to repositories containing course information:
 - [Syllabus](https://github.com/comp426-2022-fall/syllabus/)
 - [Discussions](https://github.com/orgs/comp426-2022-fall/discussions)
 - [Projects](https://github.com/orgs/comp426-2022-fall/projects)
-- [Schedule and notes](https://github.com/comp426-2022-fall/schedule/)
-- [Slides](https://github.com/comp426-2022-fall/slides/)
+- [Schedule, notes, and slides](https://github.com/comp426-2022-fall/schedule/)
