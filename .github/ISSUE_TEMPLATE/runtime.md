@@ -27,28 +27,28 @@ Make sure to add **all the information needed to understand the error** so that 
 
 Delete text above this line before you submit your issue. Place your issue information in the appropriate sections below. 
 
-### What is happening?
+#### What is happening?
 
 
 
-### Command string
+#### Command string
 
 
 
-### Code snippet
+#### Code snippet
 
 
 
-### Screenshots
+#### Screenshots
 
 
 
-### Error log
+#### Error log
 
 
 
-### Node.js version
+#### Node.js version
 
 
 
-### Operating system
+#### Operating system
