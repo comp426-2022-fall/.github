@@ -1,5 +1,5 @@
 ---
-name: Softare runtime error
+name: Software runtime error
 about: Use this template for getting help with runtime errors related to your assignments.
 title: "[DATE]: [FEATURE NAME]"
 labels: runtime error, needs triage
