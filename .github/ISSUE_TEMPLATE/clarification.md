@@ -16,6 +16,7 @@ If there is something that seems off in the instructions , go through this check
     - If no, then create a pull request with a suggested correction.
 3. [ ] Did you read any documentation related to the thing that needs clarifying?
 4. [ ] Did you Google the thing that needs clarifying?
+5. [ ] Did you search or read through the other issues on this repo to make sure there isn't already a related issue?
 
 None of the above, create an issue
 ------------------------------------------------------------------
