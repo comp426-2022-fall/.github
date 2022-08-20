@@ -8,6 +8,7 @@ assignees: jdmar3, camsimba
 
 If you think the autograder has a bug, go through this checklist:
 
+- [ ] Did you search or read through the other issues on this repo to make sure there isn't already a related issue?
 - [ ] Did you run and test your code on your local machine?
 - [ ] Did your code execute without errors on your local machine?
 - [ ] Did your code run as expected on your local machine?
