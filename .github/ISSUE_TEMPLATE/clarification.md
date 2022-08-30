@@ -24,6 +24,7 @@ Make sure to add **all the information needed to understand the error** so that 
 - [ ] Identify the line number(s) in the file where the cunfusing thing is. 
 - [ ] Describe what you find confusing?
 - [ ] Take a guess and describe what you think the confusing thing might mean?
+- [ ] Add links to the documentation that you read to try to solve this (StackOverflow, package docs, anything)
 
 Delete text above this line before you submit your issue. Place your issue information in the appropriate sections below. 
 
@@ -40,3 +41,7 @@ Delete text above this line before you submit your issue. Place your issue infor
 
 
 #### What do you think the confusing thing means?
+
+
+
+#### What did you read to try to understand better what is happening and solve the issue?
