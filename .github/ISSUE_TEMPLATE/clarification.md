@@ -9,11 +9,8 @@ assignees: jdmar3, camsimba
 If there is something that seems off in the instructions , go through this checklist:
 
 1. [ ] Is there an error in the text?
-    - If yes, go to #2. 
-    - If no, go to #3.
 2. [ ] Did you create a pull request with a correction for the error?
-    - If yes, then don't create an issue.
-    - If no, then create a pull request with a suggested correction.
+
 3. [ ] Did you read any documentation related to the thing that needs clarifying?
 4. [ ] Did you Google the thing that needs clarifying?
 5. [ ] Did you search or read through the other issues on this repo to make sure there isn't already a related issue?
