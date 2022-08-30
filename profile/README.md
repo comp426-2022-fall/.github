@@ -11,3 +11,7 @@ Follow the links below to repositories containing course information:
 - [Assignments](https://github.com/comp426-2022-fall/assignments/)
 - [Discussions](https://github.com/orgs/comp426-2022-fall/discussions)
 - [Projects](https://github.com/orgs/comp426-2022-fall/projects)
+
+## Office hours
+
+The office hours schedule is linked here: https://github.com/comp426-2022-fall/syllabus/blob/main/officehours.md
